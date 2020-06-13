@@ -2,14 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Frontstroke`,
     author: {
-      name: `Santanu Das`,
-      summary: ``,
+      name: `Santanu Das`
     },
-    description: `A blog by Santanu Das`,
-    siteUrl: `https://frontstroke.netlify.app/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `A blog about my experiences in Javascript.`,
+    siteUrl: `https://frontstroke.netlify.app/`
   },
   plugins: [
     {
